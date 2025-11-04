@@ -1,6 +1,7 @@
 # 🧠 Microsoft–OpenAI Investment Update (2025)
 
 **Author:** Jenny Wang (@JennyCloud)
+
 **Focus:** Corporate restructuring, investment scale, AI infrastructure, and Azure ecosystem impact  
 
 ---
