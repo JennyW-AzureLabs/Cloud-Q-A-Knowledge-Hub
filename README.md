@@ -27,7 +27,7 @@ This repository serves as my personal space to:
 
 ## ✨ Author
 **Jenny Wang**  
-Cloud Enthusiast ☁️ | AZ-104 in Training | Curious Learner  
+Cloud Enthusiast ☁️ | Curious Learner  
 
 📅 *Created:* October 2025  
 📘 *Version:* 1.0  
